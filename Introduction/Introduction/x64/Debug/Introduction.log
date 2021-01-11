@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Programming\GameHacking\Assembly\Creel\Introduction\Introduction\Source.cpp(12,22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+  Introduction.vcxproj -> D:\Programming\GameHacking\Assembly\Creel\Introduction\x64\Debug\Introduction.exe
